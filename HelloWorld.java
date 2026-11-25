@@ -8,4 +8,3 @@ public class HelloWorld {
         System.out.println("Sum of 1..10 = " + sum);
     }
 }
-// grader simulation 2026-11-25T06:00:26Z
