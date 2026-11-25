@@ -1,3 +1,3 @@
 # PDCAssignment2
 
-CI runs on Jenkins. Every push to `main` triggers the `pdcassignment2` pipeline via a GitHub webhook (see `Jenkinsfile`).
+Simple Java project. Every push to `main` triggers the `PDCAssignment2` Jenkins job through a GitHub webhook. The job compiles and runs `HelloWorld.java`.
